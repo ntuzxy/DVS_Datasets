@@ -1,2 +1,2 @@
 # DVS_Datasets
-datasets for event-based binary images (EBBI) from dynamic vision sensors (DVS)
+A collection of datasets for neuromorphic event-based binary images (EBBI) from dynamic vision sensors (DVS)
