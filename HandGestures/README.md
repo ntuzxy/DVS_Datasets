@@ -26,7 +26,7 @@ timestamps are in aedat.data.frame.timeStampStart (start of frame collection) or
 
 image size: 240x180
 
-aedat.data.polarity.x $in$ [0,239]
+aedat.data.polarity.x $\in$ [0,239]
 
-aedat.data.polarity.y $in$ [0,179]
+aedat.data.polarity.y $\in$ [0,179]
 
