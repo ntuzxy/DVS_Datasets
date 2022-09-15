@@ -3,10 +3,12 @@ https://zenodo.org/record/3228846#.YyKTdnZBxaQ
 
 ---
 
-## Example of dataset
+## Example of dataset：
 [![示例图片](./1.jpg "hand gesture")](https://github.com/ntuzxy/DVS_Datasets/blob/main/HandGestures/1.jpg)
 
 [![数据格式](./gesture_dataset.png "variable structure")](https://github.com/ntuzxy/DVS_Datasets/blob/main/HandGestures/gesture_dataset.png)
+
+---
 
 ## NOTE: 
 
